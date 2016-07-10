@@ -149,3 +149,5 @@ let allTheMoons = Array(planetsAndTheirMoons.values)
 for numberOfMoons in planetsAndTheirMoons.values {
     print(numberOfMoons)
 }
+
+print ("I am having fun with swift")
